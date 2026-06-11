@@ -1,0 +1,73 @@
+Group,Matchday,Home,Away
+A,1,Mexico,South Africa
+A,1,South Korea,Czech Republic
+B,1,Canada,Bosnia and Herzegovina
+D,1,United States,Paraguay
+B,1,Qatar,Switzerland
+C,1,Brazil,Morocco
+C,1,Haiti,Scotland
+D,1,Australia,Turkey
+E,1,Germany,Curacao
+F,1,Netherlands,Japan
+E,1,Ivory Coast,Ecuador
+F,1,Sweden,Tunisia
+H,1,Spain,Cape Verde
+G,1,Belgium,Egypt
+H,1,Saudi Arabia,Uruguay
+G,1,Iran,New Zealand
+I,1,France,Senegal
+I,1,Iraq,Norway
+J,1,Argentina,Algeria
+J,1,Austria,Jordan
+K,1,Portugal,DR Congo
+L,1,England,Croatia
+L,1,Ghana,Panama
+K,1,Uzbekistan,Colombia
+A,2,Czech Republic,South Africa
+B,2,Switzerland,Bosnia and Herzegovina
+B,2,Canada,Qatar
+A,2,Mexico,South Korea
+D,2,United States,Australia
+C,2,Scotland,Morocco
+C,2,Brazil,Haiti
+D,2,Turkey,Paraguay
+F,2,Netherlands,Sweden
+E,2,Germany,Ivory Coast
+E,2,Ecuador,Curacao
+F,2,Tunisia,Japan
+H,2,Spain,Saudi Arabia
+G,2,Belgium,Iran
+H,2,Uruguay,Cape Verde
+G,2,New Zealand,Egypt
+J,2,Argentina,Austria
+I,2,France,Iraq
+I,2,Norway,Senegal
+J,2,Jordan,Algeria
+K,2,Portugal,Uzbekistan
+L,2,England,Ghana
+L,2,Panama,Croatia
+K,2,Colombia,DR Congo
+B,3,Switzerland,Canada
+B,3,Bosnia and Herzegovina,Qatar
+C,3,Morocco,Haiti
+C,3,Scotland,Brazil
+A,3,South Africa,South Korea
+A,3,Czech Republic,Mexico
+E,3,Curacao,Ivory Coast
+E,3,Ecuador,Germany
+F,3,Tunisia,Netherlands
+F,3,Japan,Sweden
+D,3,Turkey,United States
+D,3,Paraguay,Australia
+I,3,Norway,France
+I,3,Senegal,Iraq
+H,3,Cape Verde,Saudi Arabia
+H,3,Uruguay,Spain
+G,3,New Zealand,Belgium
+G,3,Egypt,Iran
+L,3,Panama,England
+L,3,Croatia,Ghana
+K,3,Colombia,Portugal
+K,3,DR Congo,Uzbekistan
+J,3,Algeria,Austria
+J,3,Jordan,Argentina
